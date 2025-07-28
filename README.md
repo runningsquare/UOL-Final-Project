@@ -26,7 +26,7 @@ Used for fetching and verifying words used in Scramble Tower
 ### Statistics Tracking
 Displays total words unscrambled, high scores for each mode, and a history of recent game sessions
 
-### Technologies Used
+## Technologies Used
 - React Native
 - Expo/Expo Go
 - Datamuse API

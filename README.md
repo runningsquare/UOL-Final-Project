@@ -3,13 +3,13 @@ Final Year Project (Mar 2025)
 <br>
 <b>https://github.com/runningsquare/UOL-Final-Project</b>
 
-## Description:
+## Description
 Scramble Tower is a word-based mobile game inspired by SpellTower and Word Guess.
 In this game, rows of scrambled words periodically spawn from the bottom of the screen.
 Players must rearrange the letters to unscramble the words and clear the rows before they reach the top of the screen.
 It is a game developed for adults looking for engaging entertainment during commutes or idle moments.
 
-## Key Features:
+## Key Features
 ### Multiple Game Modes
 - Tower Mode: Standard mode with progressively fast-paced intervals
 - Rush Mode: Time-pressured mode where players unscramble as many words as possible within 60 seconds

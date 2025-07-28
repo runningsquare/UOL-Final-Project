@@ -14,7 +14,7 @@ It is a game developed for adults looking for engaging entertainment during comm
 - Tower Mode: Standard mode with progressively fast-paced intervals
 - Rush Mode: Time-pressured mode where players unscramble as many words as possible within 60 seconds
 - Zen Mode: Relaxing, pressure-free option for word exploration
-- 
+  
 ### Learning and Milestone System
 - Tracks player progress
 - Tracks awards achievements (e.g., "Word Novice")
